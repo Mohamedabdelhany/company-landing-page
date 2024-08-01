@@ -10,7 +10,7 @@ export default function TrackSection() {
           width={2000}
           height={2000}
           className=" max-w-full min-h-[450px] bg-cover brightness-50"
-          loading="eager"
+          priority
         />
       </div>
 

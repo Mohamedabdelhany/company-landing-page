@@ -10,7 +10,7 @@ export default function Service({ src, title }) {
           width={75}
           height={100}
           className=" max-w-full max-h-full"
-          loading="eager"
+          priority
         />
       </div>
       <div className=" lg:ml-10">

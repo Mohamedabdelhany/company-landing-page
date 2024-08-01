@@ -9,7 +9,7 @@ export default function Banner() {
         className=" absolute w-full h-full brightness-50"
         width={1000}
         height={1000}
-        loading="eager"
+        priority
       />
       <div className="absolute inset-0 bg-gray-900/75 sm:bg-transparent sm:from-gray-900/95 sm:to-gray-900/25 ltr:sm:bg-gradient-to-r rtl:sm:bg-gradient-to-l"></div>
 

@@ -27,7 +27,7 @@ export default function AboutUs() {
             width={1000}
             height={1000}
             className=" w-[100%] z-10 relative"
-            loading="eager"
+            priority
           />
         </div>
       </div>
